@@ -13,7 +13,7 @@ import (
 
 	"github.com/go-kirito/pkg/application"
 
-	_ "financial/third_party/swagger/swagger_ui/statik" // import statik static files
+	_ "github.com/go-kirito/swagger/swagger_ui/statik" // import statik static files
 
 	"github.com/rakyll/statik/fs"
 )
