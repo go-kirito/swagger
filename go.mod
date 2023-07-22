@@ -3,7 +3,7 @@ module github.com/go-kirito/swagger
 go 1.19
 
 require (
-	github.com/go-kirito/pkg v0.1.0
+	github.com/go-kirito/pkg v0.1.1
 	github.com/rakyll/statik v0.1.7
 	google.golang.org/grpc v1.56.2
 )
